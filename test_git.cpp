@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a = 2 + 5;
-    float t;
-
+    cout << ("Hello World\n");
 
     return 0;
 }
